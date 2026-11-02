@@ -506,10 +506,8 @@ Afterword was created to provide a personal and engaging space for life-inspired
 
 Its main goals are:
 
-- Give authors a simple platform to publish stories.
 - Make reading accessible through a clean interface.
 - Encourage meaningful reader discussions.
-- Connect authors and readers.
 - Turn personal emotions and experiences into fictional stories.
 
 ---
@@ -520,11 +518,11 @@ Its main goals are:
 
 B.Tech — Computer Science
 
-GitHub: [Add your GitHub profile link]
+GitHub: https://github.com/Niteshsingh95
 
-LinkedIn: [Add your LinkedIn profile link]
+LinkedIn: https://www.linkedin.com/in/nitesh-singh-45031028a/
 
-Portfolio: [Add your portfolio link]
+Portfolio: 
 
 ---
 
